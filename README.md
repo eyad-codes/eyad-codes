@@ -7,9 +7,12 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/eyad-al-sharabi/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/eyad.codes/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-  <code><a href="mailto:eyad.ahmed105i@gmail.com" title="Email"><img width="22" src="images/gmail.svg"> Email</a></code>
+  <code><a href="https://www.linkedin.com/in/eyad-al-sharabi/" title="LinkedIn Profile">
+    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/eyad.codes/" title="Instagram Profile">
+    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg"> Instagram</a></code>
+  <code><a href="mailto:eyad.ahmed105i@gmail.com" title="Email">
+    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg"> Email</a></code>
 </h5>
 
 <br>
