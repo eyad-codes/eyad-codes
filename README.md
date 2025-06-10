@@ -59,7 +59,7 @@
 You can reach out to me via:
 
 - GitHub: [eyad-codes](https://github.com/eyad-codes)
-- LinkedIn: [linkedin.com/in/eyad-ahmed]([https://linkedin.com/in/eyad-ahmed](https://www.linkedin.com/in/eyad-al-sharabi-a16996347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+- LinkedIn: [Eyad Al-sharabi]([https://linkedin.com/in/eyad-ahmed](https://www.linkedin.com/in/eyad-al-sharabi-a16996347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 - Email: eyad.ahmed105i@gmail.com
 
 **العربية:**
@@ -67,8 +67,8 @@ You can reach out to me via:
 تواصل معي عبر:
 
 - GitHub: [eyad-codes](https://github.com/eyad-codes)
-- لينكد إن: [linkedin.com/in/eyad-ahmed](https://linkedin.com/in/eyad-ahmed)
-- البريد الإلكتروني: your.email@example.com
+- لينكد إن: [Eyad Al-sharabi](https://linkedin.com/in/eyad-ahmed)
+- البريد الإلكتروني: eyad.ahmed105i@gmail.com
 
 ---
 
