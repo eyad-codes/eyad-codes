@@ -6,15 +6,19 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/eyad-al-sharabi/" title="LinkedIn Profile">
-    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/eyad.codes/" title="Instagram Profile">
-    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg"> Instagram</a></code>
-  <code><a href="mailto:eyad.ahmed105i@gmail.com" title="Email">
-    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg"> Email</a></code>
-</h5>
+<h5 align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.linkedin.com/in/eyad-al-sharabi/" title="LinkedIn Profile" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24" style="vertical-align: middle; margin-right: 6px;"> LinkedIn
+  </a>
 
+  <a href="https://www.instagram.com/eyad.codes/" title="Instagram Profile" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="24" style="vertical-align: middle; margin-right: 6px;"> Instagram
+  </a>
+
+  <a href="mailto:eyad.ahmed105i@gmail.com" title="Email" style="text-decoration: none; color: inherit;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="24" style="vertical-align: middle; margin-right: 6px;"> Email
+  </a>
+</h5>
 <br>
 <p align="center">
   Hi, I'm <strong>Eyad Ahmed</strong>, a passionate Full Stack Developer from Yemen 🇾🇪
